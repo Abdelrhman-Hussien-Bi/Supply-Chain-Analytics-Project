@@ -11,7 +11,7 @@ This project focuses on analyzing supply chain data to improve operational effic
 ##  Tools & Technologies
 - Excel  
 - SQL  
-- Python   
+- Power Query   
 - Power BI / Tableau  
 
 ##  Project Process
@@ -30,7 +30,6 @@ This project focuses on analyzing supply chain data to improve operational effic
 - data: raw datasets  
 - excel: data cleaning files  
 - sql: SQL queries  
-- python: analysis scripts  
 - dashboards: visualization files  
 - documentation: project report  
 
