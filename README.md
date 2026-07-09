@@ -1,5 +1,3 @@
-<img width="885" height="497" alt="Screenshot 2026-07-09 011930" src="https://github.com/user-attachments/assets/fe234b41-4295-4a44-ad2b-4ef01eaa8382" /># Supply Chain Data Analysis Project
-
 ##  Project Overview
 This project focuses on analyzing supply chain data to improve operational efficiency and support data-driven decision-making. The analysis covers key areas such as sales performance, inventory management, and delivery operations.
 
