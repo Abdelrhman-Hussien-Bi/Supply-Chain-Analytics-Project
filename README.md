@@ -19,8 +19,16 @@ This project focuses on analyzing supply chain data to improve operational effic
 2. Data Cleaning  
 3. Data Analysis  
 4. Data Visualization  
-5. Insights & Recommendations  
+5. Insights & Recommendations
 
+🌐 Live Dashboard
+🔗 View the Interactive Dashboard 
+https://app.fabric.microsoft.com/groups/6caf3e35-b0e2-40ca-8977-84db6b89da2e/reports/4c124281-23d4-4a67-b06e-f3a2a2da7075/6fe778a7d131fd799deb?experience=fabric-developer
+
+Portfolio:
+https://www.datascienceportfol.io/abdoelstar71
+
+📸 Dashboard Preview
 ##  Key Insights (to be updated)
 - Top-selling products  
 - Delivery delays analysis  
